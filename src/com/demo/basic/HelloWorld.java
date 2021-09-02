@@ -8,6 +8,7 @@ public class HelloWorld {
 		int result = numberOne + numberTwo;
 		System.out.println("Addition= " + result);
 		System.out.println("Hello world.........");
+		System.out.println("Welcome java app");
 
 	}
 }
