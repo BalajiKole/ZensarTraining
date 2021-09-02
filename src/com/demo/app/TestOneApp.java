@@ -1,5 +1,5 @@
 package com.demo.app;
 
-public class Test {
+public class TestOneApp {
 
 }
